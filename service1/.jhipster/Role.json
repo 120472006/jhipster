@@ -1,0 +1,21 @@
+{
+  "fluentMethods": true,
+  "clientRootFolder": "service1",
+  "relationships": [],
+  "fields": [
+    {
+      "fieldName": "roleName",
+      "fieldType": "String"
+    }
+  ],
+  "changelogDate": "20200728050749",
+  "dto": "mapstruct",
+  "searchEngine": false,
+  "service": "serviceClass",
+  "entityTableName": "role",
+  "databaseType": "sql",
+  "readOnly": true,
+  "jpaMetamodelFiltering": true,
+  "pagination": "pagination",
+  "microserviceName": "service1"
+}

@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.zzjz.myapp.demo",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "uaa",
+    "baseName": "uaa",
+    "packageName": "com.zzjz.myapp.demo",
+    "packageFolder": "com/zzjz/myapp/demo",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTEyYzZkNjBmYmUxMDQzNzlmNWMxZWIxNzQ0MDY2OTYxNWVhNzM4NmVmZTlkMGEzZDZiMjYxMWY5OGM4YTZjYzU5NmQyMWZlMjA5Y2I2NjAwNDM2NGZjNzc0NGZmOGM1YjNkMTA0OGM0YjdhNjRmNTM1ZTZiMTQyNjA0ZjIxZDM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1595901960508,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "zh-cn",
+    "languages": ["zh-cn", "en"],
+    "blueprints": [],
+    "skipClient": true
+  }
+}

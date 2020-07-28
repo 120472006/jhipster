@@ -1,0 +1,26 @@
+{
+  "gatewayApp": {
+    "service1Role": {
+      "home": {
+        "title": "Roles",
+        "createLabel": "Create a new Role",
+        "createOrEditLabel": "Create or edit a Role",
+        "notFound": "No Roles found"
+      },
+      "delete": {
+        "question": "Are you sure you want to delete Role {{ id }}?"
+      },
+      "detail": {
+        "title": "Role"
+      },
+      "roleName": "Role Name"
+    }
+  },
+  "service1App": {
+    "service1Role": {
+      "created": "A new Role is created with identifier {{ param }}",
+      "updated": "A Role is updated with identifier {{ param }}",
+      "deleted": "A Role is deleted with identifier {{ param }}"
+    }
+  }
+}
